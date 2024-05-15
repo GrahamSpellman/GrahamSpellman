@@ -1,13 +1,6 @@
 # Hello! :wave:
 
-I'm Graham, a senior in college. If you're looking at this, you're either a professor, another student, or Vinny.
-It's good to have you here, feel free to look around. I just moved in, so I'm still making myself at home :house_with_garden:
-
-🔭 I’m currently working on $\downarrow$: A small functional library for calibration and analysis of photoluminescence data from raree-earths.
-
-![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=GrahamSpellman&repo=respec)
-
-
+I am in grad school
 
 
 
